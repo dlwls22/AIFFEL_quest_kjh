@@ -29,6 +29,8 @@ AIFFEL_quest_rs
 │  │    
 │  ├── Quest03  
 │  │ │  
+│  │ ├── Exp_3_camera_sticker .ipynb 
+│  │ │ 
 │  │ ├── .ipynb  
 │  │ │  
 │  │ └── README.md  
